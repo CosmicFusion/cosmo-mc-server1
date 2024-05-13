@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d898e1ac-8626-4994-b49b-1fbba5f0c1d6",
+    "name": "CosmoHQ",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
