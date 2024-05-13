@@ -7,9 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-05-13 13:40:05 +0000",
       "minecraft:birch_forest": "2024-05-12 22:26:56 +0000",
+      "minecraft:beach": "2024-05-13 13:38:56 +0000",
       "minecraft:dark_forest": "2024-05-12 22:26:22 +0000",
-      "minecraft:windswept_forest": "2024-05-12 22:25:17 +0000"
+      "minecraft:river": "2024-05-13 13:38:48 +0000",
+      "minecraft:windswept_forest": "2024-05-12 22:25:17 +0000",
+      "minecraft:ocean": "2024-05-13 13:40:09 +0000"
     },
     "done": false
   },
@@ -34,6 +38,48 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-05-12 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-05-13 13:40:08 +0000"
     },
     "done": true
   },

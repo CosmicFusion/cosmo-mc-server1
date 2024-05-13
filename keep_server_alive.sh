@@ -16,6 +16,6 @@ do
     ./server_command.sh "say Save Done!"
     echo "Saving Changes to git!"
     ./server_command.sh "say Saving Changes to git!"
-    git add . && git commit -a -m "Cron save" && git push
+    #git add . && git commit -a -m "Cron save" && git push
     sleep 2h
 done
